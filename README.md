@@ -29,6 +29,7 @@ Retorna um array de objetos contendo:
     }
   ]
 ```
+Rota GET: "http://localhost:3000/transactions"
 
 ## Inicar projeto
 Instalar as dependencias
