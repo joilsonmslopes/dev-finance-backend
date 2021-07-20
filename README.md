@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="devfinance" height="30" title="devfinance" src="./logo-readme.png" />
+</h1>
+
 # API Dev Finance Utilizando JSON Server
 
 Aplicação backend para armazenar, consultar, atualizar e deletar dados.
